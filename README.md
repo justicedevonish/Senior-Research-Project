@@ -16,3 +16,9 @@
 5. Conduct backtesting to assess algorithms prediction on the stock market
 6. Determine which fractal pattern indicator is best
  
+
+
+
+
+
+##### Code was created with the help of Reddit, StackOverflow, and Github Copilot
