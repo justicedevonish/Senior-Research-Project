@@ -7,7 +7,7 @@
 
 
 
-##### Methodology
+#### Methodology
 ---
 1. Gather historical stock price data from Yahoo Finance 
 2. Employ fractal techniques to identify self-similar patterns within the stock price data
